@@ -1,0 +1,37 @@
+================================================================
+  History Stages - Diagnostic Report
+================================================================
+  Generated:      2026-11-09 23:37:17
+  History Stages: 6.1.1-1.20.1
+  Minecraft:      1.20.1
+  Forge:          47.4.10
+  Compat mods:    bettercombat 1.8.6+1.20.1, create 0.5.1.j, curios 5.14.1+1.20.1, ftbquests 2001.4.12, ftbteams 2001.3.1, jade 11.13.1+forge, jei 15.20.0.112, jeresources 1.4.0.247, kubejs 2001.6.5-build.16, lootr 0.7.35.91, polymorph 0.49.10+1.20.1, spell_engine 1.10.10+1.20.1
+  API addons:     none
+
+  Stages loaded:  0 global, 0 individual
+  Issues:         0 errors, 0 warnings, 0 notes
+
+================================================================
+  ERRORS AND WARNINGS
+================================================================
+
+  None.
+
+================================================================
+  NOTES
+================================================================
+
+  None.
+
+================================================================
+  CONFIG (CHANGED FROM DEFAULT)
+================================================================
+
+  [gameplay.toml] 0 of 59 changed
+  [visual.toml] 0 of 74 changed
+
+================================================================
+  Written on every server start by History Stages. Attach it to bug reports,
+  together with the stage files named above.
+  Stage files: config/historystages/global/ and config/historystages/individual/
+================================================================

@@ -1,0 +1,4 @@
+#Which summon slot HUD to display. This setting only affects your client.
+#Allowed Values: SUMMONITY, PAISLEY, NONE
+summonHud = "SUMMONITY"
+

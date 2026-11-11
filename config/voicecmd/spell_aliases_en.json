@@ -1,0 +1,830 @@
+{
+  "schemaVersion": 1,
+  "profiles": {
+    "379704e0-9a1a-4c22-8b57-e02ed51cf85c": {
+      "matchMode": "EXACT",
+      "recognitionMode": "STRICT",
+      "showVoiceText": true,
+      "playSounds": true,
+      "audioDevice": "",
+      "aliases": {
+        "gtbcs_geomancy_plus:fissure": [
+          "Fissure"
+        ],
+        "gtbcs_geomancy_plus:tremor_spike": [
+          "Tremor Spike"
+        ],
+        "gtbcs_geomancy_plus:tremor_step": [
+          "Tremor Step"
+        ],
+        "gtbcs_geomancy_plus:eroding_boulder": [
+          "Eroding Boulder"
+        ],
+        "gtbcs_geomancy_plus:chunker": [
+          "Chunker"
+        ],
+        "gtbcs_geomancy_plus:seismic_surf": [
+          "Seismic Surf"
+        ],
+        "gtbcs_geomancy_plus:dripstone_bolt": [
+          "Dripstone Bolt"
+        ],
+        "gtbcs_geomancy_plus:pillar_of_the_resounding_earth": [
+          "Pillar Of The Resounding Earth"
+        ],
+        "gtbcs_geomancy_plus:geo_conductor": [
+          "Geo Conductor"
+        ],
+        "gtbcs_geomancy_plus:petrivise": [
+          "Petrivise"
+        ],
+        "gtbcs_geomancy_plus:weeping_wall": [
+          "Weeping Wall"
+        ],
+        "gtbcs_geomancy_plus:crystalline_conduit": [
+          "Crystalline Conduit"
+        ],
+        "gtbcs_geomancy_plus:weeping_cluster": [
+          "Weeping Cluster"
+        ],
+        "gtbcs_geomancy_plus:solar_storm": [
+          "Solar Storm"
+        ],
+        "gtbcs_geomancy_plus:solar_beam": [
+          "Solar Beam"
+        ],
+        "gtbcs_geomancy_plus:solar_chorus": [
+          "Solar Chorus"
+        ],
+        "traveloptics:vortex_of_the_deep": [
+          "Vortex Of The Deep"
+        ],
+        "traveloptics:bubble_spray": [
+          "Bubble Spray"
+        ],
+        "traveloptics:hydroshot": [
+          "Hydroshot"
+        ],
+        "traveloptics:aqua_missiles": [
+          "Aqua Missiles"
+        ],
+        "traveloptics:jet_steam": [
+          "Jet Steam"
+        ],
+        "traveloptics:echo_of_the_abyss": [
+          "Echo Of The Abyss"
+        ],
+        "traveloptics:rainfall": [
+          "Rainfall"
+        ],
+        "traveloptics:flood_slash": [
+          "Flood Slash"
+        ],
+        "traveloptics:coral_barrage": [
+          "Coral Barrage"
+        ],
+        "traveloptics:tidal_grasp": [
+          "Tidal Grasp"
+        ],
+        "traveloptics:floodgate": [
+          "Floodgate"
+        ],
+        "traveloptics:tsunami": [
+          "Tsunami"
+        ],
+        "traveloptics:skypiercer": [
+          "Skypiercer"
+        ],
+        "traveloptics:serpentide": [
+          "Serpentide"
+        ],
+        "traveloptics:the_howling_tempest": [
+          "The Howling Tempest"
+        ],
+        "traveloptics:herald_of_acropolis": [
+          "Herald Of Acropolis"
+        ],
+        "traveloptics:overflow": [
+          "Overflow"
+        ],
+        "traveloptics:catalytic_blast_aqua": [
+          "Catalytic Aqua Beam"
+        ],
+        "traveloptics:rift_of_the_waning_moon": [
+          "Rift Of The Waning Moon"
+        ],
+        "traveloptics:vigor_siphon": [
+          "Vigor Siphon"
+        ],
+        "traveloptics:blood_howl": [
+          "Blood Howl"
+        ],
+        "traveloptics:eek": [
+          "Eek"
+        ],
+        "traveloptics:nocturnal_swarm": [
+          "Nocturnal Swarm"
+        ],
+        "traveloptics:call_forth_the_dead_king": [
+          "Call Forth The Dead King"
+        ],
+        "traveloptics:abyssal_blast": [
+          "Abyssal Blast"
+        ],
+        "traveloptics:shadowed_miasma": [
+          "Shadowed Miasma"
+        ],
+        "traveloptics:spectral_blink": [
+          "Spectral Blink"
+        ],
+        "traveloptics:reversal": [
+          "Reversal"
+        ],
+        "traveloptics:the_forgotten_beast": [
+          "The Forgotten Beast"
+        ],
+        "traveloptics:blackout": [
+          "Blackout"
+        ],
+        "traveloptics:psychic_bolt": [
+          "Psychic Bolt"
+        ],
+        "traveloptics:apex_harvest": [
+          "Apex Harvest"
+        ],
+        "traveloptics:void_eruption": [
+          "Void Eruption"
+        ],
+        "traveloptics:cursed_minefield": [
+          "Cursed Minefield"
+        ],
+        "traveloptics:orbital_void": [
+          "Orbital Void"
+        ],
+        "traveloptics:vortex_punch": [
+          "Vortex Uppercut"
+        ],
+        "traveloptics:eternal_sentinel": [
+          "Eternal Sentinel"
+        ],
+        "traveloptics:astral_sense": [
+          "Astral Sense"
+        ],
+        "traveloptics:conjure_void_tomes": [
+          "Conjure Void Tomes"
+        ],
+        "traveloptics:blink": [
+          "Blink"
+        ],
+        "traveloptics:supernova": [
+          "Supernova"
+        ],
+        "traveloptics:shear_of_the_stars": [
+          "Shear Of The Stars"
+        ],
+        "traveloptics:lingering_strain": [
+          "Lingering Strain"
+        ],
+        "traveloptics:ashen_breath": [
+          "Ashen Breath"
+        ],
+        "traveloptics:annihilation": [
+          "Annihilation"
+        ],
+        "traveloptics:lava_bomb": [
+          "Lava Bomb"
+        ],
+        "traveloptics:burning_judgment": [
+          "Burning Judgment"
+        ],
+        "traveloptics:meteor_storm": [
+          "Meteor Storm"
+        ],
+        "traveloptics:ignited_onslaught": [
+          "Ignited Onslaught"
+        ],
+        "traveloptics:extinction": [
+          "Extinction"
+        ],
+        "traveloptics:gyro_slash": [
+          "Gyro Slash"
+        ],
+        "traveloptics:flames_reborn": [
+          "Flames Reborn"
+        ],
+        "traveloptics:catalytic_blast_fire": [
+          "Catalytic Fire Beam"
+        ],
+        "traveloptics:nullflare": [
+          "Nullflare"
+        ],
+        "traveloptics:sword_of_the_ancients": [
+          "Sword Of The Ancients\u0027"
+        ],
+        "traveloptics:summon_desert_dwellers": [
+          "Desert Dwellers"
+        ],
+        "traveloptics:halberd_horizon": [
+          "Halberd Horizon"
+        ],
+        "traveloptics:despair": [
+          "Despair"
+        ],
+        "traveloptics:sticky_steed_summon": [
+          "Sticky Steed Summon"
+        ],
+        "traveloptics:cursed_revenants": [
+          "Cursed Revenants"
+        ],
+        "traveloptics:axe_of_the_doomed": [
+          "Axe Of The Doomed"
+        ],
+        "traveloptics:em_pulse": [
+          "EM-Pulse"
+        ],
+        "traveloptics:rapid_laser": [
+          "Rapid Laser"
+        ],
+        "traveloptics:death_laser": [
+          "Death Laser"
+        ],
+        "traveloptics:magnetron_deployment": [
+          "Magnetron Deployment"
+        ],
+        "traveloptics:mechanized_predator": [
+          "Mechanized Predators"
+        ],
+        "traveloptics:galena_shatter": [
+          "Galena Shatter"
+        ],
+        "traveloptics:stele_cascade": [
+          "Stele Cascade"
+        ],
+        "traveloptics:aerial_collapse": [
+          "Aerial Collapse"
+        ],
+        "traveloptics:primal_pack": [
+          "Primal Pack"
+        ],
+        "traveloptics:primordial_steed": [
+          "Primordial Steed"
+        ],
+        "traveloptics:catalytic_blast_acid": [
+          "Catalytic Acid Beam"
+        ],
+        "traveloptics:descent_of_decay": [
+          "Descent Of Decay"
+        ],
+        "traveloptics:beast_beneath": [
+          "The Beast Beneath"
+        ],
+        "darkdoppelganger:doppel_portal": [
+          "Portal Jump"
+        ],
+        "darkdoppelganger:summon_doppel_minion": [
+          "Summon Minion"
+        ],
+        "dacxirons:summon_weakness": [
+          "Summon Weakness"
+        ],
+        "dacxirons:summonkamath": [
+          "Eldritch Champion"
+        ],
+        "dacxirons:sunleia_beam": [
+          "Sunleia Beam"
+        ],
+        "dacxirons:arcane_arrow": [
+          "Arcane Arrow"
+        ],
+        "dacxirons:bloody_arrow": [
+          "Bloody Arrow"
+        ],
+        "dacxirons:triple_fireball_spell": [
+          "Triple Fireball"
+        ],
+        "dacxirons:acid_ball_spell": [
+          "Acid Fireball"
+        ],
+        "dacxirons:fairys_wish_spell": [
+          "Fairy\u0027s Wish"
+        ],
+        "dacxirons:crimson_oath": [
+          "Crimson Oath"
+        ],
+        "dacxirons:suns_wrath": [
+          "Sun\u0027s Wrath"
+        ],
+        "dacxirons:eldritch_slash": [
+          "Eldritch Slash"
+        ],
+        "dacxirons:summon_pyro_knight": [
+          "Summon Pyro Knight"
+        ],
+        "dacxirons:summon_bloodymancer_cultist": [
+          "Bloody Magical Reinforcements"
+        ],
+        "irons_spellbooks:acupuncture": [
+          "Acupuncture"
+        ],
+        "irons_spellbooks:blood_needles": [
+          "Blood Needles"
+        ],
+        "irons_spellbooks:blood_slash": [
+          "Blood Slash"
+        ],
+        "irons_spellbooks:blood_step": [
+          "Blood Step"
+        ],
+        "irons_spellbooks:devour": [
+          "Devour"
+        ],
+        "irons_spellbooks:heartstop": [
+          "Heartstop"
+        ],
+        "irons_spellbooks:raise_dead": [
+          "Raise Dead"
+        ],
+        "irons_spellbooks:ray_of_siphoning": [
+          "Ray of Siphoning"
+        ],
+        "irons_spellbooks:wither_skull": [
+          "Wither Skull"
+        ],
+        "irons_spellbooks:sacrifice": [
+          "Sacrifice"
+        ],
+        "irons_spellbooks:counterspell": [
+          "Counterspell"
+        ],
+        "irons_spellbooks:dragon_breath": [
+          "Dragon\u0027s Breath"
+        ],
+        "irons_spellbooks:evasion": [
+          "Evasion"
+        ],
+        "irons_spellbooks:magic_arrow": [
+          "Magic Arrow"
+        ],
+        "irons_spellbooks:magic_missile": [
+          "Magic Missile"
+        ],
+        "irons_spellbooks:starfall": [
+          "Starfall"
+        ],
+        "irons_spellbooks:teleport": [
+          "Teleport"
+        ],
+        "irons_spellbooks:summon_ender_chest": [
+          "Summon Ender Chest"
+        ],
+        "irons_spellbooks:recall": [
+          "Recall"
+        ],
+        "irons_spellbooks:portal": [
+          "Portal"
+        ],
+        "irons_spellbooks:echoing_strikes": [
+          "Echoing Strikes"
+        ],
+        "irons_spellbooks:black_hole": [
+          "Black Hole"
+        ],
+        "irons_spellbooks:summon_swords": [
+          "Summon Swords"
+        ],
+        "irons_spellbooks:shadow_slash": [
+          "Shadow Slash"
+        ],
+        "irons_spellbooks:arcane_shackle": [
+          "Arcane Shackle"
+        ],
+        "irons_spellbooks:gravity_fissure": [
+          "Gravity Fissure"
+        ],
+        "irons_spellbooks:chain_creeper": [
+          "Chain Creeper"
+        ],
+        "irons_spellbooks:fang_strike": [
+          "Fang Strike"
+        ],
+        "irons_spellbooks:fang_ward": [
+          "Fang Ward"
+        ],
+        "irons_spellbooks:firecracker": [
+          "Firecracker"
+        ],
+        "irons_spellbooks:gust": [
+          "Gust"
+        ],
+        "irons_spellbooks:invisibility": [
+          "Invisibility"
+        ],
+        "irons_spellbooks:lob_creeper": [
+          "Lob Creeper"
+        ],
+        "irons_spellbooks:shield": [
+          "Shield"
+        ],
+        "irons_spellbooks:spectral_hammer": [
+          "Spectral Hammer"
+        ],
+        "irons_spellbooks:summon_horse": [
+          "Summon Horse"
+        ],
+        "irons_spellbooks:summon_vex": [
+          "Summon Vex"
+        ],
+        "irons_spellbooks:slow": [
+          "Slow"
+        ],
+        "irons_spellbooks:arrow_volley": [
+          "Arrow Volley"
+        ],
+        "irons_spellbooks:wololo": [
+          "Wololo"
+        ],
+        "irons_spellbooks:throw": [
+          "Throw"
+        ],
+        "irons_spellbooks:fang_swirl": [
+          "Fang Swirl"
+        ],
+        "irons_spellbooks:scapegoat": [
+          "Scapegoat"
+        ],
+        "irons_spellbooks:blaze_storm": [
+          "Blaze Storm"
+        ],
+        "irons_spellbooks:burning_dash": [
+          "Burning Dash"
+        ],
+        "irons_spellbooks:fireball": [
+          "Fireball"
+        ],
+        "irons_spellbooks:firebolt": [
+          "Firebolt"
+        ],
+        "irons_spellbooks:fire_breath": [
+          "Fire Breath"
+        ],
+        "irons_spellbooks:magma_bomb": [
+          "Magma Bomb"
+        ],
+        "irons_spellbooks:wall_of_fire": [
+          "Wall of Fire"
+        ],
+        "irons_spellbooks:heat_surge": [
+          "Heat Surge"
+        ],
+        "irons_spellbooks:flaming_strike": [
+          "Flaming Strike"
+        ],
+        "irons_spellbooks:scorch": [
+          "Scorch"
+        ],
+        "irons_spellbooks:flaming_barrage": [
+          "Flaming Barrage"
+        ],
+        "irons_spellbooks:fire_arrow": [
+          "Fire Arrow"
+        ],
+        "irons_spellbooks:raise_hell": [
+          "Raise Hell"
+        ],
+        "irons_spellbooks:angel_wing": [
+          "Angel Wings"
+        ],
+        "irons_spellbooks:blessing_of_life": [
+          "Blessing of Life"
+        ],
+        "irons_spellbooks:fortify": [
+          "Fortify"
+        ],
+        "irons_spellbooks:greater_heal": [
+          "Greater Heal"
+        ],
+        "irons_spellbooks:guiding_bolt": [
+          "Guiding Bolt"
+        ],
+        "irons_spellbooks:healing_circle": [
+          "Healing Circle"
+        ],
+        "irons_spellbooks:heal": [
+          "Heal"
+        ],
+        "irons_spellbooks:sunbeam": [
+          "Sunbeam"
+        ],
+        "irons_spellbooks:wisp": [
+          "Wisp"
+        ],
+        "irons_spellbooks:divine_smite": [
+          "Divine Smite"
+        ],
+        "irons_spellbooks:haste": [
+          "Haste"
+        ],
+        "irons_spellbooks:cleanse": [
+          "Cleanse"
+        ],
+        "irons_spellbooks:cone_of_cold": [
+          "Cone of Cold"
+        ],
+        "irons_spellbooks:frost_step": [
+          "Frost Step"
+        ],
+        "irons_spellbooks:ice_block": [
+          "Ice Block"
+        ],
+        "irons_spellbooks:icicle": [
+          "Icicle"
+        ],
+        "irons_spellbooks:summon_polar_bear": [
+          "Summon Polar Bear"
+        ],
+        "irons_spellbooks:ray_of_frost": [
+          "Ray of Frost"
+        ],
+        "irons_spellbooks:frostwave": [
+          "Frostwave"
+        ],
+        "irons_spellbooks:ice_spikes": [
+          "Ice Spikes"
+        ],
+        "irons_spellbooks:ice_tomb": [
+          "Ice Tomb"
+        ],
+        "irons_spellbooks:snowball": [
+          "Snowball"
+        ],
+        "irons_spellbooks:frostbite": [
+          "Frostbite"
+        ],
+        "irons_spellbooks:blizzard": [
+          "Blizzard"
+        ],
+        "irons_spellbooks:ascension": [
+          "Ascension"
+        ],
+        "irons_spellbooks:chain_lightning": [
+          "Chain Lightning"
+        ],
+        "irons_spellbooks:charge": [
+          "Charge"
+        ],
+        "irons_spellbooks:electrocute": [
+          "Electrocute"
+        ],
+        "irons_spellbooks:lightning_bolt": [
+          "Lightning Bolt"
+        ],
+        "irons_spellbooks:lightning_lance": [
+          "Lightning Lance"
+        ],
+        "irons_spellbooks:shockwave": [
+          "Shockwave"
+        ],
+        "irons_spellbooks:thunderstorm": [
+          "Thunderstorm"
+        ],
+        "irons_spellbooks:ball_lightning": [
+          "Ball Lightning"
+        ],
+        "irons_spellbooks:volt_strike": [
+          "Volt Strike"
+        ],
+        "irons_spellbooks:acid_orb": [
+          "Acid Spit"
+        ],
+        "irons_spellbooks:blight": [
+          "Blight"
+        ],
+        "irons_spellbooks:poison_arrow": [
+          "Poison Arrow"
+        ],
+        "irons_spellbooks:poison_breath": [
+          "Poison Spray"
+        ],
+        "irons_spellbooks:poison_splash": [
+          "Poison Splash"
+        ],
+        "irons_spellbooks:root": [
+          "Root"
+        ],
+        "irons_spellbooks:spider_aspect": [
+          "Aspect of the Spider"
+        ],
+        "irons_spellbooks:firefly_swarm": [
+          "Firefly Swarm"
+        ],
+        "irons_spellbooks:oakskin": [
+          "Oakskin"
+        ],
+        "irons_spellbooks:earthquake": [
+          "Earthquake"
+        ],
+        "irons_spellbooks:stomp": [
+          "Stomp"
+        ],
+        "irons_spellbooks:gluttony": [
+          "Gluttony"
+        ],
+        "irons_spellbooks:touch_dig": [
+          "Touch Dig"
+        ],
+        "irons_spellbooks:abyssal_shroud": [
+          "Abyssal Shroud"
+        ],
+        "irons_spellbooks:sculk_tentacles": [
+          "Sculk Tentacles"
+        ],
+        "irons_spellbooks:sonic_boom": [
+          "Sonic Boom"
+        ],
+        "irons_spellbooks:planar_sight": [
+          "Planar Sight"
+        ],
+        "irons_spellbooks:telekinesis": [
+          "Telekinesis"
+        ],
+        "irons_spellbooks:eldritch_blast": [
+          "Eldritch Blast"
+        ],
+        "irons_spellbooks:pocket_dimension": [
+          "Pocket Dimension"
+        ],
+        "ias_spellbooks:spirits_chosen": [
+          "Spirit\u0027s Chosen"
+        ],
+        "ias_spellbooks:venomous_reborn": [
+          "Venomous Reborn"
+        ],
+        "ias_spellbooks:restorative_rain": [
+          "Restorative Rain"
+        ],
+        "ias_spellbooks:hellish_horde": [
+          "Hellish Horde"
+        ],
+        "ias_spellbooks:handemic": [
+          "Handemic"
+        ],
+        "ias_spellbooks:silken_breath": [
+          "Silken Breath"
+        ],
+        "ias_spellbooks:zoom_n_boom": [
+          "Zoom \u0027n Boom"
+        ],
+        "ias_spellbooks:blazing_imprint": [
+          "Blazing Imprint"
+        ],
+        "ias_spellbooks:snack_attack": [
+          "Snack Attack"
+        ],
+        "ias_spellbooks:pumpkin_spice": [
+          "Pumpkin Spice"
+        ],
+        "ias_spellbooks:dragline": [
+          "Dragline"
+        ],
+        "aether_spellbooks:aercloud_step": [
+          "Aercloud Step"
+        ],
+        "aether_spellbooks:stonebreaker_shard": [
+          "Stonebreaker Shard"
+        ],
+        "aether_spellbooks:thunder_crystal": [
+          "Thunder Crystal"
+        ],
+        "aether_spellbooks:frostbound_crystal": [
+          "Frostbound Crystal"
+        ],
+        "aether_spellbooks:summon_fire_minion": [
+          "Summon Fire Minion"
+        ],
+        "aether_spellbooks:summon_moa": [
+          "Summon Moa"
+        ],
+        "aether_spellbooks:gravitite_surge": [
+          "Gravitite Surge"
+        ],
+        "aether_spellbooks:valkyrie_lunge": [
+          "Valkyrie Lunge"
+        ],
+        "aether_spellbooks:zephyr_blast": [
+          "Zephyr Blast"
+        ],
+        "aether_spellbooks:aether_whirlwind": [
+          "Aether Whirlwind"
+        ],
+        "aether_spellbooks:solar_flare": [
+          "Solar Flare"
+        ],
+        "aether_spellbooks:cloud_sentinels": [
+          "Cloud Sentinels"
+        ],
+        "aether_spellbooks:radiant_javelin": [
+          "Radiant Javelin"
+        ],
+        "aether_spellbooks:thunderhead": [
+          "Thunderhead"
+        ],
+        "aether_spellbooks:aerwhale_song": [
+          "Aerwhale Song"
+        ],
+        "aether_spellbooks:icestone_meteor": [
+          "Icestone Meteor"
+        ],
+        "legendary_spellbooks:annihilation_arrow": [
+          "Annihilation Arrow"
+        ],
+        "legendary_spellbooks:annihilation_beam": [
+          "Annihilation Beam"
+        ],
+        "legendary_spellbooks:annihilation_bomb": [
+          "Annihilation Bomb"
+        ],
+        "legendary_spellbooks:annihilation_shockwave": [
+          "Annihilation Shockwave"
+        ],
+        "legendary_spellbooks:annihilation_resonance": [
+          "Annihilation Resonance"
+        ],
+        "legendary_spellbooks:annihilation_geyser": [
+          "Annihilation Geyser"
+        ],
+        "legendary_spellbooks:summon_flameborn_knights": [
+          "Summon Flameborn Knights"
+        ],
+        "legendary_spellbooks:release_riftwalker_predator": [
+          "Release Riftwalker Predator"
+        ],
+        "legendary_spellbooks:flameborn_drift": [
+          "Flameborn Drift"
+        ],
+        "legendary_spellbooks:possessed_soul_blade": [
+          "Possessed Soul Blade"
+        ],
+        "legendary_spellbooks:hematite_trishula": [
+          "Hematite Trishula"
+        ],
+        "legendary_spellbooks:possessed_wing": [
+          "Possessed Wings"
+        ],
+        "legendary_spellbooks:collapsed_kingdoms_legion": [
+          "Collapsed Kingdom\u0027s Legion"
+        ],
+        "legendary_spellbooks:flame_eater": [
+          "Flame Eater"
+        ],
+        "legendary_spellbooks:flame_sector": [
+          "Flame Sector"
+        ],
+        "legendary_spellbooks:sentinel_saturation": [
+          "Sentinel Saturation"
+        ],
+        "legendary_spellbooks:glacier_eruption": [
+          "Glacier Eruption"
+        ],
+        "legendary_spellbooks:glacier_ringburst": [
+          "Glacier Ringburst"
+        ],
+        "legendary_spellbooks:cloud_rail": [
+          "Cloud Rail"
+        ],
+        "legendary_spellbooks:cloud_ring": [
+          "Cloud Ring"
+        ],
+        "legendary_spellbooks:nimbus_array": [
+          "Nimbus Array"
+        ],
+        "legendary_spellbooks:triple_nimbus_array": [
+          "Triple Nimbus Array"
+        ],
+        "legendary_spellbooks:thunder_fanburst": [
+          "Thunder Fanburst"
+        ],
+        "legendary_spellbooks:tornado": [
+          "Tornado"
+        ],
+        "legendary_spellbooks:quad_tornado": [
+          "Quad Tornado"
+        ],
+        "legendary_spellbooks:energy_beam": [
+          "Energy Beam"
+        ],
+        "legendary_spellbooks:cumulo_charge": [
+          "Cumulo Charge"
+        ],
+        "legendary_spellbooks:ambush_thorns": [
+          "Ambush Thorns"
+        ],
+        "legendary_spellbooks:overgrown_shockwave": [
+          "Overgrown Shockwave"
+        ],
+        "legendary_spellbooks:fossilized_fury": [
+          "Fossilized Fury"
+        ]
+      }
+    }
+  }
+}

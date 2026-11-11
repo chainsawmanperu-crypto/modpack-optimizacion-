@@ -1,0 +1,9 @@
+
+[pathfinding]
+	#Range: 64 ~ 8192
+	queueSize = 256
+	#Range: 500 ~ 5000
+	maxNodes = 2000
+	resetThreadException = true
+	interruptCancel = true
+
